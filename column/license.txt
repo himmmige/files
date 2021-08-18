@@ -1,0 +1,11 @@
+Model Information:
+* title:	Greek Column Element
+* source:	https://sketchfab.com/3d-models/greek-column-element-c0a9b4a721f842fd8e78beb903bd017c
+* author:	Beatheart (https://sketchfab.com/beatheart)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Greek Column Element" (https://sketchfab.com/3d-models/greek-column-element-c0a9b4a721f842fd8e78beb903bd017c) by Beatheart (https://sketchfab.com/beatheart) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
