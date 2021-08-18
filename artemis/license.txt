@@ -1,0 +1,11 @@
+Model Information:
+* title:	Artemis
+* source:	https://sketchfab.com/3d-models/artemis-c143bc34131c404a9c01a160b641299f
+* author:	Grégoire Desrousseaux (https://sketchfab.com/g.desrx)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Artemis" (https://sketchfab.com/3d-models/artemis-c143bc34131c404a9c01a160b641299f) by Grégoire Desrousseaux (https://sketchfab.com/g.desrx) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
